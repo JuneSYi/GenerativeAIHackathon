@@ -1,0 +1,57 @@
+phantombuster
+telegram
+using an external service
+use the llm to talk to that service
+achieve the objective
+once the information gets back,
+verify
+- contact someone
+- 
+
+
+find russian telegram channels
+
+question:
+- given x, find instance/evidence of x
+    - is wagner group retreating?
+        - give it to llm, 
+        - llm queries
+        - dumps into database
+        - embeds
+- suds -
+
+api_id: 20086294
+api_hash: c1c62ec33484ee3f2dfbf9ceab7760f0
+app title: JointSignals
+short name: JointSignals
+
+MTProto Servers: 
+test config: 149.154.167.40:443
+
+public keys:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAyMEdY1aR+sCR3ZSJrtztKTKqigvO/vBfqACJLZtS7QMgCGXJ6XIR
+yy7mx66W0/sOFa7/1mAZtEoIokDP3ShoqF4fVNb6XeqgQfaUHd8wJpDWHcR2OFwv
+plUUI1PLTktZ9uW2WE23b+ixNwJjJGwBDJPQEQFBE+vfmH0JP503wr5INS1poWg/
+j25sIWeYPHYeOrFp/eXaqhISP6G+q2IeTaWTXpwZj4LzXq5YOpk4bYEQ6mvRq7D1
+aHWfYmlEGepfaYR8Q0YqvvhYtMte3ITnuSJs171+GDqpdKcSwHnd6FudwGO4pcCO
+j4WcDuXc2CTHgH8gFTNhp/Y8/SpDOhvn9QIDAQAB
+-----END RSA PUBLIC KEY-----
+
+public config: [DELETED]
+public keys: [DELETED]
+
+
+
+
+text :
+url : 
+title : 
+
+other:
+automating the search of the telegram channels
+
+also:
+search for some relevant public channels.
+
+
